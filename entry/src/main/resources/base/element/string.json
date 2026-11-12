@@ -1,0 +1,32 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "TukuRW 图库文件就地读写"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "TukuRW"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "TukuRW"
+    },
+    {
+      "name": "reason_read_imagevideo",
+      "value": "读取用户选中的图库图片/视频内容"
+    },
+    {
+      "name": "reason_write_imagevideo",
+      "value": "就地改写用户选中的图库图片/视频内容（加解密演示）"
+    },
+    {
+      "name": "reason_media_location",
+      "value": "避免平台对图片地理位置等 EXIF 字段做脱敏，保证加解密前后字节一致"
+    },
+    {
+      "name": "menu_item_xor",
+      "value": "TukuRW 就地加解密"
+    }
+  ]
+}

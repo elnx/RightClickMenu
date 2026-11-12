@@ -1,0 +1,18 @@
+{
+  "fileContextMenu": [
+    {
+      "abilityName": "EntryAbility",
+      "menuItem": "$string:menu_item_xor",
+      "menuHandler": "tukurw_xor",
+      "menuContext": [
+        {
+          "menuKind": 1,
+          "menuRule": "single",
+          "fileSupportType": [
+            "*"
+          ]
+        }
+      ]
+    }
+  ]
+}
